@@ -1,0 +1,191 @@
+.navbar{
+    background-color: #042825;
+    height: 7rem;
+    padding-bottom: 3rem;
+    display: inline-block;
+    width: 100%;
+}
+.navbar-heading{
+    color: #28D09C;
+    font-size: 2.6rem;
+}
+.bannerBtn{
+    border: 1px solid #fff;
+    float: right;
+    color: #fff;
+    margin-top: 32px;
+    border-radius: 0;
+}
+.bannerImage{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/bg.jpeg");
+  height: 24.3rem;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  z-index: 1
+}
+.banner-text {
+    color: #28D09C;
+    font-size: 9.06rem;
+    font-weight: bold;
+    width: 100%;
+    transform: translate(0%,100%);
+    
+    text-align: center;
+}
+.greenContainer{
+    padding: 2rem 4rem;
+}
+.secondBanner{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/Mask\ Group.png");
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-color: #042825;
+    color: #28D09C;
+    padding-bottom: 10.8rem;
+}
+.comingUp{
+    font-size: 1.88rem;
+    padding-top: 1rem;
+}
+hr{
+    border-top-color: rgba(40, 208, 156, 0.6);
+}
+.arrowImage{
+    margin-bottom: 0 !important;
+    float: right;
+    margin-top: 1.8%;
+}
+.secondBanner p{
+    font-size: 1.17rem;
+}
+.secondBanner small{
+    font-size: 0.94rem;
+    color: rgba(40, 208, 156, 0.6)
+}
+.secondBanner img{
+    margin-bottom: 6rem;
+}
+.secondBanner h3{
+    font-size: 2.94rem;
+    width: 69%;
+    margin-bottom: 3.76rem;
+}
+.secondBanner a{
+    font-size: 1.41rem;
+    color: rgba(255, 255, 255, 0.8) !important;
+    text-decoration: underline !important;
+}
+.thirdContainer{
+    padding-top: 9.41rem;
+    color: #042825;
+}
+.thirdContainer h1{
+   font-size: 3.53rem;
+   font-weight: normal;
+}
+.thirdContainer h3{
+    font-size: 2.35rem;
+    font-weight: normal;
+ }
+ .thirdContainer h2{
+    font-size: 2.35rem;
+    font-style: bold;
+ }
+ .thirdContainer .quotes{
+    font-size: 1.76rem;
+ }
+ .thirdContainer .quotes .name{
+    font-size:  1.17rem;
+ }
+
+ .thirdContainer p{
+    font-weight: normal;
+    color: rgba(4, 40, 37, 0.6);
+    font-size: 1.17rem;
+ }
+ .thirdContainer .subSection{
+     margin-top: 11.12rem;
+     color: #25D39D;
+ }
+.thirdContainer a{
+    color: rgba(243, 155, 22, 0.81) !important;
+    font-size: 1.41rem;
+    font-weight: bold;
+}
+.paddingBottom{
+    padding-bottom: 9.70rem;
+}
+.bolderText{
+    font-weight: 700;
+}
+.categories{
+    color: rgba(4, 40, 37, 0.6);
+    font-size: 1.17rem;
+    text-align: center;
+}
+.lastBanner{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/Mask\ Group.png");
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-color: #042825;
+    color: #28D09C;
+}
+.lastBanner .join{
+    color: rgba(37, 211, 157, 0.6);
+    font-size: 1.76rem;
+}
+.lastBanner .experience{
+    font-size: 9.12rem;
+    line-height: 90%;
+}
+.lastBanner .rest{
+    font-size: 9.12rem;
+    font-weight: 700;
+    line-height: 90%;
+}
+.footerBtn{
+    border: 1px solid #fff;
+    color: #fff;
+    margin-top: 6.12rem;
+    border-radius: 0;
+    font-size: 1.17rem;
+    padding: 1.17rem 1.65rem;
+}
+.pull-right{
+    float: right;
+}
+.secondLastBanner{
+    background-image: url("images/Mask\ Group.png");
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-color:rgba(102, 155, 139, 0.03);
+    color: #28D09C;
+}
+.secondLastBanner h1{
+    text-transform: uppercase;
+    color: #042825;
+    font-size: 3.53rem;
+    padding-top: 9.58rem;
+    font-weight: normal;
+    padding-bottom: 7.65rem;
+    margin: 0;
+}
+.secondLastBanner span{
+    color: rgba(4, 40, 37, 0.6);
+    font-size: 2.12rem;
+}
+@media screen and (max-width: 1200px){
+    html,body { font-size: 55%; } 
+  }
