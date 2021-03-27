@@ -130,7 +130,7 @@ hr{
     text-align: center;
 }
 .lastBanner{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/Mask\ Group.png");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.08), rgba(0, 0, 0, 0.08)), url("images/Mask\ Group.png");
     width: 100%;
     background-position: center;
     background-repeat: no-repeat;
